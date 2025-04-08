@@ -10,13 +10,6 @@ The project also features an intuitive **web interface built using Flask**.
 
 ---
 
-## 👩‍💻 Project Contributors  
-- **Mirha Sidheek**  
-- **Jana Christina van Leeuwen**  
-- **Begzada Adylbekova**
-
----
-
 ## 🎯 Project Goals  
 - ✅ Generate accurate, fluent, and contextually relevant captions.  
 - ✅ Efficiently generalize to previously unseen images.  
