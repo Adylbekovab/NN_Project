@@ -41,4 +41,4 @@ The notebook details the following key steps:
 
 ## Data Storage Note
 
-The large input TSV files, the downloaded images, files are **not stored** in this Git repository due to their size. The notebook is configured to read from and write to the `Data/` directory locally. Ensure you have sufficient local storage.
+The large input [TSV files](https://ai.google.com/research/ConceptualCaptions/download), the [downloaded images](https://drive.google.com/file/d/1VccsKExvSfzZe82uXF2d7_MBOTM7TCII/view?usp=sharing), files are **not stored** in this Git repository due to their size. The notebook is configured to read from and write to the `Data/` directory locally. Ensure you have sufficient local storage.
